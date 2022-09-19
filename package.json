@@ -61,7 +61,7 @@
     "axios": "^0.26.1",
     "axios-oauth-client": "^1.4.4",
     "axios-token-interceptor": "^0.2.0",
-    "core-js": "^3.20.3",
+    "core-js": "^3.25.2",
     "querystring": "^0.2.1",
     "uuid": "^8.3.2"
   }
